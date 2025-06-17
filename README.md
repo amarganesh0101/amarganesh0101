@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm S. Amar Ganesh
 
-<!--
-**amarganesh0101/amarganesh0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science and Engineering (CSE) Student**  
+📍 Rajalakshmi Engineering College, India  
+🧠 Passionate about **Computer Architecture**, **Operating Systems**, and **Digital Logic / VLSI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Known Languages:**
+  - C
+  - Python
+  - Current learning verilog
+---
+
+## 📫 Connect with Me
+
+- 💬 Email: amarganesh.pandian0101@gmail.com
+- 🌱 Always eager to learn and collaborate on system-level projects!
+
+---
+
