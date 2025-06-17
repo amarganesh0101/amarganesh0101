@@ -2,7 +2,7 @@
 
 🎓 **Computer Science and Engineering (CSE) Student**  
 📍 Rajalakshmi Engineering College, India  
-🧠 Passionate about **Computer Architecture**, **Operating Systems**, and **Digital Logic / VLSI**
+🧠 Passionate about **Computer Architecture**, **Operating Systems**, and **Digital Logic / Digital VLSI**
 
 ---
 
