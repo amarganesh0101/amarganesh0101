@@ -4,6 +4,8 @@
 📍 Rajalakshmi Engineering College, India  
 🖥️ Computer Systems Enthusiast
 
+---
+
 ## Particularly Interested in
  - **Computer Architecture**
  - **Digital Logic**
