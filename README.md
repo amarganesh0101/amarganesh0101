@@ -22,7 +22,7 @@
   - ![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=plastic&logo=verilog&logoColor=white) (Currently learning)
   
 - **Tools / Editors:**
-  - ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+  - ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
   
 ---
 
