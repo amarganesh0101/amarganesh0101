@@ -20,6 +20,7 @@
   - ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
   - ![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=plastic&logo=verilog&logoColor=white) (Currently learning)
+  
 -**Tools / Editors:**
   - ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
   
