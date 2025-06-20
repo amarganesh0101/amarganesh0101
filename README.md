@@ -7,7 +7,7 @@
 ---
 
 ## Particularly Interested in
- - **Computer Architecture** & **Digital Logic**(ISA,Microarchitecture,etc)
+ - **Computer Architecture** & **Digital Logic** (ISA,Microarchitecture,etc)
  - **Operating Systems** 
  - and also **High Level Software**
 
